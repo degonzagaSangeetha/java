@@ -1,0 +1,23 @@
+public Class Form{
+
+string myName='Sangeetha';
+char myInitial='R';
+byte myAge=29;
+int myIncome=20000;
+long myBank=20000000110;
+float myInterest=25.204646;
+boolean isLearning=true;
+
+public static void main(String args[]){
+
+system.out.println("My Name:"myName);
+system.out.println("My initial:"myInitial);
+system.out.println("My age:"myAge);
+system.out.println("My income:"myIncome);
+system.out.println("My bank balance:"myBank);
+system.out.println("My interest:"myInterest);
+system.out.println("I am learning JAVA:"isLearning);
+
+
+
+}}
