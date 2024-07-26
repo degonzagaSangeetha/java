@@ -1,0 +1,5 @@
+public class Letter{
+    public static void main(String[] args) {
+        System.out.println(" CA RAVINDER SINGH AND ASSOCIATES \n 255 Hyatt Arcade \n Pusa Road \n NEW DELHI-110005 \n 011- 47044xxx, 987xxxxxxx \n \n M/s Madhu Singh \n Flat No 20, Block B- 15, \n Pocket- B Sector 22 - B \n Paharganj, New Delhi 110077 \n\n December 26, 2017 \n\n Dear Madam \n\n With reference to ypur interview dated 21 Dec 2017, we are pleased to offer you position of Assistant Manager, Accounts and Taxation in our Organization \n\n\n Your joining date is confirmed at 26 Dec 2017 as per the following terms and conditions \n (i) You are entitled to a CTC of 25550 per month payable as per Annexure A \n (ii) You agree to comply with Terms and Conditions of Appoinment /n (iii)  You agree to submit with us a signed copy of mark sheet, Pan Card, Aadhar Card as well as Passport Size Photograph and also bring the original for verifications \n Please send us an acknowledgement of this offer confirming your joining \n We look forward to a mutually rewarding professional relationship with you \n\n For Ravinder Singh & Associates\n\n CA Ravinder Singh\n Proprietor");
+    }
+}
